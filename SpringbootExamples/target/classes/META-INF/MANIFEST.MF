@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringbootExamples
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ravi
+Implementation-Vendor-Id: com.laxmi.niros
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/SpringbootEx
+ amples/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

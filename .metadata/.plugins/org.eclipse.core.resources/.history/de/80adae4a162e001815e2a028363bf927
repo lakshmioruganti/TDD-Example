@@ -1,0 +1,9 @@
+package com.niros.courseapidata.topic;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface TopicRepositery extends CrudRepository<Topic,String>{
+	
+	
+
+}

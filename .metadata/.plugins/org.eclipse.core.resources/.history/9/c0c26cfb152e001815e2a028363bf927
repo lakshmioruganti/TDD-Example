@@ -1,0 +1,5 @@
+package com.niros.courseapidata.topic;
+
+public interface TopicRepositery {
+
+}

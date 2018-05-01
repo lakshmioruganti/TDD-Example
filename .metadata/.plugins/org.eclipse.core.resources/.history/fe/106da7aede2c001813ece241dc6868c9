@@ -1,0 +1,10 @@
+package com.nirios.springbootstarter;
+
+public class CourseApiapp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

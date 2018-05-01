@@ -1,0 +1,5 @@
+package com.niros.springbootstarter.toppic;
+
+public class TopicService {
+
+}

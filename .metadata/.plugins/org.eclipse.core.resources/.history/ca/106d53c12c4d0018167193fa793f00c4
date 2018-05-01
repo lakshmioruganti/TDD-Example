@@ -1,0 +1,9 @@
+
+public class HelloController {
+
+	protected String hello(String ravir) {
+		// TODO Auto-generated method stub
+		return ravi;
+	}
+
+}

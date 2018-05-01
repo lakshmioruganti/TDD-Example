@@ -1,0 +1,18 @@
+package com.niros.springbootstarter.toppic;
+
+import java.util.Arrays;
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class TopicService {
+	
+	private List<Topic> topics=  Arrays.asList(new Topic("Spring","Springframework","Springframework discription"),
+			new Topic("Spring2","Spring2framework","Springframework2 discription"));
+	
+	public List<Topic> getAllTopics(){
+		return topics;
+	}
+
+}
